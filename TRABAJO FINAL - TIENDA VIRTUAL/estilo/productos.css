@@ -44,9 +44,10 @@
 
 .banner_tienda {
     position: relative;
-    display: inline-block;
     width: 100%;
-    max-width: 995px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     margin-top: 50px;
     margin-bottom: 50px;
 }
